@@ -1,0 +1,35 @@
+Name = "Md.Hasan Noorani"
+Age=12
+Std= "8th"
+
+
+
+print("name")
+
+print("Name")
+
+print("Name")
+
+print(Name)
+
+print(Age)
+
+print(Std)
+
+print(Std)
+
+
+print(Name)
+
+
+Name = "Md.hasan"
+Age = 12
+School = "The R.H Kapadia New High School"
+
+print(Age)
+
+
+print(Name)
+print(Age)
+print(School)
+ 
